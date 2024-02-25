@@ -4,7 +4,7 @@
 
 
 
-![Alt Text](./img/coverimg.jpg)
+![Alt Text](coverimage.jpeg)
 
 Hello there! I am Software Engineer with more than 4 years of experience in the industry, currently based in Saint Étienne-du-rouvray, France. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
 
