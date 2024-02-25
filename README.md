@@ -6,11 +6,11 @@
 
 ![Alt Text](coverimage.jpeg)
 
-Hello there! I am Software Engineer with more than 4 years of experience in the industry, currently based in Saint Étienne-du-rouvray, France. Throughout my career, I have gained extensive expertise in various aspects of software development life cycle (SDLC) and possess a proven track record of delivering solutions that not only meet clients' requirements but also surpass their expectations.
+Hello there! I am a goal-oriented, proactive individual with solid experience entailing the pursuit of software application projects, developing and implementing programs, writing and testing codes, and assisting in developing software solutions. My background in software development focuses on coding abilities, unmatched talent in conducting system analysis, demonstrable experience in integrating new software components as fully functional software systems; and skills in correcting present software and helping in adapting to new technology. 
 
-My proficiency extends across a wide range of programming languages and tools, including PHP, JAVA, GO, SpringBoot, Laravel, CodeIgniter, MySQL, PostgreSQL, Linux, Redis, and JavaScript, among others. This diverse skill set empowers me to develop high-quality, scalable, and maintainable applications that align with industry best practices.
+Specifically, I have extensive experience designing scalable and production-ready applications with PHP programming language, LARAVEL, Python programming language, Django, AWS, Docker.
 
-I am deeply passionate about utilizing technology to tackle intricate problems and consistently strive to enhance my knowledge and skills. By staying abreast of the latest advancements and trends in the field, I ensure that I am equipped to provide innovative and efficient solutions.
+Over the years, I have developed test schedules and strategies tailored to project scope and delivery dates and I monitor and track bug resolutions. I have also reviewed software documentation to verify technical accuracy and completeness and to mitigate risks. Seeking to procure a job to utilize my variety of software development skills
 
 
 
