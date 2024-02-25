@@ -28,7 +28,7 @@ Over the years, I have developed test schedules and strategies tailored to proje
 <a href="https://www.linkedin.com/in/saheed-lasisi-962297211/" target="_blank"> ![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/>
 
-**horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**irawoinyass/irawoinyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlathunbhosun&show_icons=true&locale=en&layout=compact" alt="horlathunbhosun" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlathunbhosun&" alt="horlathunbhosun" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irawoinyass&show_icons=true&locale=en&layout=compact" alt="irawoinyass" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irawoinyass&" alt="irawoinyass" /></p>
 
 -->
 
