@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/nodejs-%236DB33F.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-## Servers and Version Controls, Storage
+## Servers, Version Controls and Storage
  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
