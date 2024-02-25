@@ -23,9 +23,9 @@ Over the years, I have developed test schedules and strategies tailored to proje
 " /> -->
 
 <!--
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
-<a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"> ![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/saheed-lasisi-962297211/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
+<a href="https://instagram.com/irawo_inyass" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
+<a href="https://www.linkedin.com/in/saheed-lasisi-962297211/" target="_blank"> ![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/>
 
 **horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,10 +33,10 @@ Over the years, I have developed test schedules and strategies tailored to proje
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/olaolulode">
+<a href="https://twitter.com/IInysss">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/">
+<a href="https://www.linkedin.com/in/saheed-lasisi-962297211/">
   <img align="left" alt="Olulode's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 Here are some ideas to get you started:
