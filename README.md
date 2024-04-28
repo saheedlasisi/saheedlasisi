@@ -15,7 +15,7 @@ Over the years, I have developed test schedules and strategies tailored to proje
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irawoinyass&label=Profile%20views&color=0e75b6&style=flat" alt="irawoinyass" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saheedlasisi&label=Profile%20views&color=0e75b6&style=flat" alt="saheedlasisi" /> </p>
 
 
 
@@ -28,7 +28,7 @@ Over the years, I have developed test schedules and strategies tailored to proje
 <a href="https://www.linkedin.com/in/saheed-lasisi-962297211/" target="_blank"> ![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/>
 
-**irawoinyass/irawoinyass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saheedlasisi/saheedlasisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -98,21 +98,21 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irawoinyass&show_icons=true&locale=en&layout=compact" alt="irawoinyass" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irawoinyass&" alt="irawoinyass" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saheedlasisi&show_icons=true&locale=en&layout=compact" alt="saheedlasisi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saheedlasisi&" alt="saheedlasisi" /></p>
 
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irawoinyass&show_icons=true&locale=en" alt="irawoinyass" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saheedlasisi&show_icons=true&locale=en" alt="saheedlasisi" /></p>
 
   <div>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=irawoinyass&theme=dark&background=000000" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=saheedlasisi&theme=dark&background=000000" alt="GitHub Streak" />
   </div>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irawoinyass&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheedlasisi&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </div>
 </div>
 
